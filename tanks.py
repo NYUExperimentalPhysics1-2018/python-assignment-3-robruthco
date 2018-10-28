@@ -3,7 +3,9 @@
 """
 Created on Thu Oct 18 19:18:02 2018
 
-@author: gershow
+  @author: Robert Ruth
+    TA: Argha Mondal
+    Assignment: PS3
 """
 import numpy as np
 import matplotlib.pyplot as plt
